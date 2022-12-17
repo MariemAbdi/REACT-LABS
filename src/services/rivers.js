@@ -1,3 +1,4 @@
+//DATA 
 const rivers = {
     nile: {
       continent: 'Africa',
@@ -20,7 +21,8 @@ const rivers = {
       outflow: 'Gulf of Mexico'
     }
    }
-   
+
+//show river's data based on the name after 1.5sec
 export function getRiverInformation(name) {
      return new Promise((resolve) => {
        setTimeout(() => {
