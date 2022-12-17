@@ -1,6 +1,6 @@
 <h1 align="center">DEMO</h1>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/100727442/208249236-de650d6b-d13c-4577-8bd2-2ba274c2ab28.png" width="400"/>
+<img src="https://user-images.githubusercontent.com/100727442/208249236-de650d6b-d13c-4577-8bd2-2ba274c2ab28.png"/>
 </div>
 <h1 align="center">CREDITS</h1>
 Tutorial Learned From <a href="https://www.digitalocean.com/community/tutorials/how-to-style-react-components#step-4-styling-with-jss">Digital Ocean Website</a>
