@@ -1,3 +1,11 @@
+<h1 align="center">DEMO</h1>
+<div align="center">
+<video src="https://user-images.githubusercontent.com/100727442/208247621-95c329e7-4c15-4bec-be75-f611a20f5cef.mp4" width="400"/>
+</div>
+<h1 align="center">CREDITS</h1>
+Tutorial Learned From <a href="https://www.digitalocean.com/community/tutorials/how-to-create-wrapper-components-in-react-with-props#step-2-collecting-unused-props-with-props">Digital Ocean Website</a>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
