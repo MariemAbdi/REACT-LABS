@@ -1,3 +1,10 @@
+<h1 align="center">DEMO</h1>
+<div align="center">
+<video src="https://user-images.githubusercontent.com/100727442/208266164-2a4d7f4f-ee64-449e-9455-fd83c3b150ac.mp4" width="400"/>
+</div>
+<h1 align="center">CREDITS</h1>
+Tutorial Learned From <a href="https://www.digitalocean.com/community/tutorials/how-to-add-login-authentication-to-react-applications#step-1-building-a-login-page">Digital Ocean Website</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
