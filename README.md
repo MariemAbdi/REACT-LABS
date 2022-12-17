@@ -1,3 +1,10 @@
+<h1 align="center">DEMO</h1>
+<div align="center">
+<video src="https://user-images.githubusercontent.com/100727442/208263765-f91a6c14-7b80-4f18-b40a-51e25c1e3355.mp4" width="400"/>
+</div>
+<h1 align="center">CREDITS</h1>
+Tutorial Learned From <a href="https://www.digitalocean.com/community/tutorials/how-to-call-web-apis-with-the-useeffect-hook-in-react#step-1-creating-a-project-and-a-local-api">Digital Ocean Website</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
