@@ -1,3 +1,10 @@
+<h1 align="center">DEMO</h1>
+<div align="center">
+<video src="https://user-images.githubusercontent.com/100727442/208264917-207c096f-8bd7-48d8-95c2-35da251609b1.mp4" width="400"/>
+</div>
+<h1 align="center">CREDITS</h1>
+Tutorial Learned From <a href="https://www.digitalocean.com/community/tutorials/how-to-manage-state-in-react-with-redux#step-1-setting-up-a-store">Digital Ocean Website</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
