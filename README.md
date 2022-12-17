@@ -1,3 +1,10 @@
+<h1 align="center">DEMO</h1>
+<div align="center">
+<video src="https://user-images.githubusercontent.com/100727442/208257260-f14923e3-958a-4ff6-adb4-41565fdf9502.mp4" width="400"/>
+</div>
+<h1 align="center">CREDITS</h1>
+Tutorial Learned From <a href="https://www.digitalocean.com/community/tutorials/how-to-handle-async-data-loading-lazy-loading-and-code-splitting-with-react#step-3-lazy-loading-a-component-with-suspense-and-lazy">Digital Ocean Website</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
