@@ -2,7 +2,7 @@
 <div align="center">
 <video src="https://user-images.githubusercontent.com/100727442/208245890-56839863-7671-42eb-bc03-d2325fb05786.mp4" width="400"/>
 </div>
-<h2 align="center">CREDITS</h2>
+<h1 align="center">CREDITS</h1>
 Tutorial Learned From <a href="https://www.digitalocean.com/community/tutorials/how-to-manage-state-on-react-class-components">Digital Ocean Website</a>
 
 
