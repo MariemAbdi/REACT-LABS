@@ -1,3 +1,10 @@
+<h1 align="center">DEMO</h1>
+<div align="center">
+<video src="https://user-images.githubusercontent.com/100727442/208252729-e560232a-45c1-4851-b441-ed6eeaee5a3a.mp4" width="400"/>
+</div>
+<h1 align="center">CREDITS</h1>
+Tutorial Learned From <a href="https://www.digitalocean.com/community/tutorials/how-to-debug-react-components-using-react-developer-tools">Digital Ocean Website</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
