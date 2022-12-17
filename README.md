@@ -1,3 +1,13 @@
+<h1 align="center">DEMO</h1>
+<div align="center">
+<video src="https://user-images.githubusercontent.com/100727442/208245890-56839863-7671-42eb-bc03-d2325fb05786.mp4" width="400"/>
+</div>
+<h2 align="center">CREDITS</h2>
+Tutorial Learned From <a href="https://www.digitalocean.com/community/tutorials/how-to-manage-state-on-react-class-components">Digital Ocean Website</a>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
