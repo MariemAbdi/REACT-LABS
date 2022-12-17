@@ -1,0 +1,30 @@
+.wrapper {
+    padding: 30px;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.items{
+    display: flex; 
+    justify-content:space-between;
+    padding: 200px;
+    font-size: 20px;
+}
+.numeric{
+    color: red;
+}
+
+
+
+.wrapper button {
+    border-radius: 10px;
+    font-size: 20px;
+    background: none;
+    margin-right: 5px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
